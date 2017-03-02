@@ -12,7 +12,7 @@ Repositories`_.
 The maintenance and development cycle of the INDIGO-DataCloud Core
 Services and Applications is outlined in the figure bellow.
 
-.. figure:: indigodc_lifecycle.png
+.. figure:: docs/indigodc_lifecycle.png
    :alt: 
 
    Major Releases
